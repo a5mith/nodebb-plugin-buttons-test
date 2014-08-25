@@ -1,0 +1,31 @@
+{
+  "name": "nodebb-plugin-buttons-galore",
+  "version": "0.0.3",
+  "description": "Allows you to take NodeBB's composer to the next level to provide more user-friendly buttons.",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TedRinehart/nodebb-plugin-buttons-galore"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "composer",
+    "buttons"
+  ],
+  "author": {
+    "name": "Ted Rinehart",
+    "email": "theodorerinehart@gmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/TedRinehart/nodebb-plugin-buttons-galore/issues"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-buttons-galore@0.0.2",
+  "_from": "nodebb-plugin-buttons-galore@~0.0.2"
+}
